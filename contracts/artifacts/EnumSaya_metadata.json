@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getEnum",
+				"outputs": [
+					{
+						"internalType": "enum EnumSaya.Jobs",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/VariableTypes.sol": "EnumSaya"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/VariableTypes.sol": {
+			"keccak256": "0xfefab30fb3127a17fd41356943a1d81b8ab71518a4929f77d219650ce03d518a",
+			"urls": [
+				"bzz-raw://41dd977a0a0a064ac48e2e0ee008f7cabd680944b60278219a6d5b58eb125f58",
+				"dweb:/ipfs/QmUSgGTQxTvMU58SGbFeyjr2S8j9gReeWJYrnKo3Rv99gx"
+			]
+		}
+	},
+	"version": 1
+}

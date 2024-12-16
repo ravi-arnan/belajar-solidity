@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "insert",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ArrayContract.sol": "PushArray"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ArrayContract.sol": {
+			"keccak256": "0xff576555658d95975562105ffd44ed68effaae5bd3914e2c96d060733ecc4796",
+			"urls": [
+				"bzz-raw://f5b01b8434115d0ea15accc727e2ff7362f2a5f32deabd1be2e898143202a520",
+				"dweb:/ipfs/QmVWYYvy47ecSuQbABJBz2zVPBrCaXMJriuFi7NZzMHmvm"
+			]
+		}
+	},
+	"version": 1
+}
